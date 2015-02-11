@@ -33,7 +33,7 @@ Check out more of my code on [Github].
 #### Skills
 
 - Agile values, principles and practices
-- Object¬ oriented principles and design
+- Object oriented principles and design
 - Pair programming
 - Mobile-first responsive design
 - Agile methodologies, TDD, BDD
@@ -44,7 +44,6 @@ Check out more of my code on [Github].
 - Primary language: Ruby
 - Other languages: Javascript, CSS3, HTML5, Markdown (GitHub flavour)
 - Basic java
-
 - JavaScript, jQuery and AJAX
 - JSON and jBuilder
 
@@ -61,7 +60,6 @@ Check out more of my code on [Github].
 - Version control and collaboration using Git and GitHub
 
 - Rapid deployment to Heroku and Amazon AWS
-
 
 - Ruby Gems (inc. Devise, bcrypt, FactoryGirl, Paperclip, Poltergeist, Database Cleaner)
 - Integration of APIs including Pusher, Twilio, Foursquare, Stripe, GMaps, Mailgun and Paperclip
