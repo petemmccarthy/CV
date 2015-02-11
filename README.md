@@ -9,17 +9,18 @@ As well as Object Oriented Programming, Software design and Full-Stack Web devel
 
 I also learnt how Software and Web applications should be designed and built in collaboration with the client or with the end user in mind and with bug free, easily maintainable code.
 
-### Recent code samples
+Some recent code samples are below:-
+
 ---
 [Bunch] | [Sudoku solver] | [Thermostat]
 :-- |:--|:--
-Makers Academy final project: event-planning application for bringing groups of friends together in a central location. | Test-driven Ruby application that can solve a Sudoku puzzle (W.I.P). | Test-driven Javascript application simulating a basic thermostat functions.
+Makers Academy final project: Rails based event-planning application for bringing groups of friends together in a central location. | Test-driven Ruby application that can solve a Sudoku puzzle (W.I.P). | Test-driven Javascript application simulating a basic thermostat functions.
 
 
 Check out more of my code on [Github].
 
 
-## Web development
+## Software and Web development
 
 #### [Makers Academy], London
 **Software development bootcamp: June&mdash;September 2014**
@@ -32,40 +33,41 @@ Check out more of my code on [Github].
 
 #### Skills
 
-- Agile values, principles and practices
-- Object oriented principles and design
+- Agile principles and practices
+- Object-oriented design
+- Responsive design
 - Pair programming
-- Mobile-first responsive design
-- Agile methodologies, TDD, BDD
-- Pair programming and group work
-- Object-oriented programming
-- MVP Design
 
-- Primary language: Ruby
-- Other languages: Javascript, CSS3, HTML5, Markdown (GitHub flavour)
-- Basic java
-- JavaScript, jQuery and AJAX
-- JSON and jBuilder
+- Test Driven Development
+ - Unit testing with RSpec and Jasmine
+ - Integration testing with Capybara and Poltergeist
+ - Behaviour Driven Development (BDD) with Cucumber
+ - Testing aids such as FactoryGirl fixtures and Shoulda matchers
+ - Validating code test coverage using Code-climate
+ 
+- Languages
+ - Primary language: Ruby
+ - Other languages: Javascript, CSS3, HTML5, Markdown (GitHub flavour)
+ - jQuery and AJAX
+ - JSON and jBuilder
+ - Basic java
 
-- Web development frameworks – Ruby on Rails, Sinatra
+- Web Development frameworks 
+ - Rails
+ - Sinatra
 
-- Database management using PostgresQL, ActiveRecord,and DataMapper
+- Database management
+ - PostgreSQL
+ - ActiveRecord
+ - DataMapper
 
-- Test Driven Development (TDD)
-- Unit testing with RSpec and Jasmine
-- Integration testing with Capybara and Poltergeist
-- Behaviour Driven Development (BDD) with Cucumber
-- Validating tests using Code-climate
+- Ruby Gems Devise and bcrypt for user authentication and authorisation 
 
+- Integration of APIs 
+ - including Twilio, Foursquare, Stripe, Pusher, GMaps, Mailgun and Paperclip
+
+- Deployment to Heroku and Amazon AWS
 - Version control and collaboration using Git and GitHub
-
-- Rapid deployment to Heroku and Amazon AWS
-
-- Ruby Gems (inc. Devise, bcrypt, FactoryGirl, Paperclip, Poltergeist, Database Cleaner)
-- Integration of APIs including Pusher, Twilio, Foursquare, Stripe, GMaps, Mailgun and Paperclip
-- User authentication and authorisation with bcrypt and Devise
-
-- FactoryGirl fixtures and Shoulda matchers
 - WebSockets
 
 
@@ -134,9 +136,7 @@ Education
 
 - Makers Academy – 12 week intensive software and web development bootcamp (June – Sep 2014)
 - B.A. Business Economics, University of Leicester (Sep 2000 – Jun 2003)
-
 - Mathematics & Economics Foundation Course, University of Leicester (Sep 1999 – Jun 2000)
-- 10 GCSEs, Yarm Grammar School
 
 
 Interests and Hobbies
@@ -148,7 +148,7 @@ Cycling, technology, climbing, skiing, outdoor pursuits and travel.
 
 Contact me
 ---
-You can find me on [LinkedIn] and [Twitter], or email me at [petermccarthy49@yahoo.co.uk]
+You can email me at [petermccarthy49@yahoo.co.uk] or find me on [LinkedIn] and [Twitter].
 
 
 
