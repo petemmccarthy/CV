@@ -1,37 +1,37 @@
 # Peter McCarthy
 ---
 
-I'm a Junior Developer based in London. After graduating in Economics I spent 10 years in Banking before joining [Makers Academy], a highly selective, 12 week Software and Web development course. 
+After graduating in Economics I spent 10 years in Banking before joining [Makers Academy], a highly selective, 12 week Software and Web development course. 
 
-I made this decision as Software and Web development couples together areas I'm passionate about – technology, solving problems and being creative.
+I made this decision as Software and Web development combines areas I'm passionate about – technology, solving problems and being creative.
 
-As well as Object Oriented Programming, Software design and Full-Stack Web development, the course focussed on developing best practices such as Behaviour/Test Driven Development, Pair Programming and Agile principles. 
+As well as Object Oriented Programming, Software design and Full-stack Web development, the course focussed on developing best practices such as Behaviour/Test Driven Development, Pair Programming and Agile methodologies. 
 
-I also learnt how Software and Web applications should be designed and built in collaboration with the client or with the end user in mind and with bug free, easily maintainable code.
+I also learnt how Software and Web applications should be designed in collaboration with your client and from the end users perspective, with easily maintainable code.
 
 Some recent code samples are below:-
 
 ---
-[Bunch] | [Sudoku solver] | [Thermostat]
+[Bunch] | [Thermostat] | [Sudoku solver]
 :-- |:--|:--
-Makers Academy final project: Rails based event-planning application for bringing groups of friends together in a central location. | Test-driven Ruby application that can solve a Sudoku puzzle (W.I.P). | Test-driven Javascript application simulating a basic thermostat functions.
+Makers Academy final project: Ruby on Rails based web application for helping friends decide where to meet and suggest places to eat, drink or what to do. | Test-driven Javascript application simulating a basic thermostat functions. | Test-driven Ruby application that can solve a Sudoku puzzle (W.I.P).
 
 
-Check out more of my code on [Github].
+Check out more of my code on my [Github Repositories].
 
 
 ## Software and Web development
 
 #### [Makers Academy], London
-**Software development bootcamp: June&mdash;September 2014**
+**Software and Web development: June&mdash;September 2014**
 
-  - Highly selective 12-week coding and software development course
-  - Full-stack web development
-  - Focused on agile methodologies, test-driven development and clean code
-  - Lots of pair programming and regular team projects
+  - Highly selective 12-week Software and Web development course
+  - Object-Oriented Sofware design
+  - Full-stack Web development
+  - Focus on Agile Methodologies, Test Driven development and clean code
   - Two-week final team project to bring it all together
 
-#### Skills
+#### Skills learnt
 
 - Agile principles and practices
 - Object-oriented design
@@ -41,13 +41,13 @@ Check out more of my code on [Github].
 - Test Driven Development
  - Unit testing with RSpec and Jasmine
  - Integration testing with Capybara and Poltergeist
- - Behaviour Driven Development (BDD) with Cucumber
+ - Behaviour Driven Development with Cucumber
  - Testing aids such as FactoryGirl fixtures and Shoulda matchers
  - Validating code test coverage using Code-climate
  
 - Languages
  - Primary language: Ruby
- - Other languages: Javascript, CSS3, HTML5, Markdown (GitHub flavour)
+ - Javascript, CSS3, HTML5, Markdown (GitHub flavour)
  - jQuery and AJAX
  - JSON and jBuilder
  - Basic java
@@ -61,7 +61,7 @@ Check out more of my code on [Github].
  - ActiveRecord
  - DataMapper
 
-- Ruby Gems Devise and bcrypt for user authentication and authorisation 
+- Ruby Gems: Devise and bcrypt for user authentication and authorisation 
 
 - Integration of APIs 
  - including Twilio, Foursquare, Stripe, Pusher, GMaps, Mailgun and Paperclip
@@ -123,13 +123,13 @@ Check out more of my code on [Github].
 - Involvement in design requirements, roll out and training across Corporate Banking for new customer complaint management system
 
 #### Barclays Corporate Banking
-*Jun 2000 – Sep 2000, Jun 2001 – Sep 2001, Jun 2002 – Sep 2002 (University internships)*
+*Summer(Jun-Sep) 2000, 2001 and 2002 University internships*
 
 - Designed successful recruitment campaign for junior vacancies including organising and producing presentation materials and correspondence for applicants
 
 - Dealt with day-to-day client queries such as calculating available funds and reviewing clients breaching financing agreements
 
-- Produced Barclays’ ‘Retail Weekly’ newsletter for internal and external distribution to clients
+- Produced the ‘Retail Weekly’ newsletter for internal and external distribution to clients
 
 Education
 ---
@@ -152,7 +152,7 @@ You can email me at [petermccarthy49@yahoo.co.uk] or find me on [LinkedIn] and [
 
 
 
-[Github]:https://github.com/petermccarthy49?tab=repositories
+[Github Repositories]:https://github.com/petermccarthy49?tab=repositories
 [Makers Academy]:http://www.makersacademy.com
 [petermccarthy49@yahoo.co.uk]:mailto:petermccarthy49@yahoo.co.uk
 [Personal Website]:http://www.petemccarthy.co.uk
