@@ -82,7 +82,7 @@ Check out more of my code on my [Github Repositories].
 
 - Support for Nomura Alternative Investment Management in house Fund Managers for UCITS and Enovara funds. This involves coordinating new fund launches, seed capital management for internal trading desks, production of fund valuations and subscription/redemption/rebalance activity
 
-- Proactively identify processes to be migrated to the Mumbai Middle Office and provide process documentation, support and training for migrated activities. I spent three weeks working in Mumbai in 2012 migrating some of the UCITS Funds daily activity and training the teams on general product knowledge and how to conduct structured deal reviews
+- Proactively identify processes to be migrated to the Mumbai Middle Office and provide process documentation, support and training for migrated activities. I spent three weeks working in Mumbai in 2012 migrating the UCITS Funds daily activity and training the teams on general product knowledge and how to conduct structured deal reviews
 
 #### Structured Rates and Inflation Middle Office - Citigroup
 *Sep 2008 – Jul 2010*
