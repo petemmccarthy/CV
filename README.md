@@ -17,7 +17,7 @@ Some recent code samples are below:-
 Makers Academy final project: Ruby on Rails based web application for helping friends decide where to meet and suggest places to eat, drink or what to do. | Test-driven Javascript application simulating a basic thermostat functions. | Test-driven Ruby application that can solve a Sudoku puzzle (W.I.P).
 
 
-Check out more of my code on my [Github Repositories].
+Check out more of my code in my [Github Repositories].
 
 
 ## Software and Web development
