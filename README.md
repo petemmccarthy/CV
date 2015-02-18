@@ -73,14 +73,14 @@ Check out more of my code in my [Github Repositories].
 
 ## Previous Experience
 
-#### Structured Products Middle Office - Nomura
+#### Funds and Structured Products and Middle Office - Nomura
 *Jul 2010 – Jun 2014*
+
+- Support for Nomura Alternative Investment Management in house Fund Managers for UCITS and Enovara funds. This involves coordinating new fund launches, seed capital management for internal trading desks, production of fund valuations and subscription/redemption/rebalance activity
 
 - Built out the Middle Office support function for the Re-insurance trading desk separating it from Cross Asset trading. This involved full review and documentation of all live deals and front to back review and documentation of all operational risks through a Risk & Control Self-Assessment ensuring all risks were identified and mitigated where possible through controls and procedures
 
 - Support for the Algorithmic Strategies trading desk for both interest rate and commodity trading activity including daily flash pnl generation, activity reports, structured deal reviews, trade-flow and lifecycle management and ad-hoc queries
-
-- Support for Nomura Alternative Investment Management in house Fund Managers for UCITS and Enovara funds. This involves coordinating new fund launches, seed capital management for internal trading desks, production of fund valuations and subscription/redemption/rebalance activity
 
 - Proactively identified processes to be migrated to the Mumbai Middle Office and provided process documentation, support and training. I spent three weeks working in Mumbai in 2012 migrating the UCITS Funds daily activity and training the teams on general product knowledge and how to conduct structured deal reviews
 
