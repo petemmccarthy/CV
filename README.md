@@ -76,7 +76,7 @@ Check out more of my code in my [Github Repositories].
 #### Funds and Structured Products and Middle Office - Nomura
 *Jul 2010 – Jun 2014*
 
-- Support for Nomura Alternative Investment Management in house Fund Managers for UCITS and Enovara funds. This involves coordinating new fund launches, seed capital management for internal trading desks, production of fund valuations and subscription/redemption/rebalance activity
+- Support for Nomura Alternative Investment Management in house Fund Managers for UCITS and Enovara funds. This involved coordinating new fund launches, seed capital management for internal trading desks, production of fund valuations and subscription/redemption/rebalance activity
 
 - Built out the Middle Office support function for the Re-insurance trading desk separating it from Cross Asset trading. This involved full review and documentation of all live deals and front to back review and documentation of all operational risks through a Risk & Control Self-Assessment ensuring all risks were identified and mitigated where possible through controls and procedures
 
