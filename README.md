@@ -3,7 +3,7 @@
 
 After graduating in Economics I spent 10 years in Banking before joining [Makers Academy], a highly selective, 12 week Software and Web development course. 
 
-I made this decision as Software and Web development combines areas I'm passionate about – technology, solving problems and being creative.
+I made this decision as Software and Web development combines areas I'm passionate about – technology, solving problems and exploring new things.
 
 As well as Object Oriented Programming, Software design and Full-stack Web development, the course focussed on developing best practices such as Behaviour/Test Driven Development, Pair Programming and Agile methodologies. 
 
