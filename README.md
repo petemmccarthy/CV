@@ -76,42 +76,42 @@ Check out more of my code in my [Github Repositories].
 #### Funds and Structured Products and Middle Office - Nomura
 *Jul 2010 – Jun 2014*
 
-- Support for Nomura Alternative Investment Management in house Fund Managers for UCITS and Enovara funds. This involved coordinating new fund launches, seed capital management for internal trading desks, production of fund valuations and subscription/redemption/rebalance activity
+- Support for Nomura Alternative Investment Management in house Fund Managers for UCITS and Enovara funds. This involved coordinating new fund launches, seed capital management for internal trading desks, producing fund valuations and subscription/redemption/rebalance activity
 
-- Built out the Middle Office support function for the Re-insurance trading desk separating it from Cross Asset trading. This involved full review and documentation of all live deals and front to back review and documentation of all operational risks through a Risk & Control Self-Assessment ensuring all risks were identified and mitigated where possible through controls and procedures
+- Built out the Middle Office support function for the Re-insurance trading desk separating it from Cross Asset trading. This included a full review and documentation of all deals and review and documentation of all operational risks through a Risk & Control Self-Assessment ensuring all risks were identified and mitigated where possible through controls and procedures
 
-- Support for the Algorithmic Strategies trading desk for both interest rate and commodity trading activity including daily flash pnl generation, activity reports, structured deal reviews, trade-flow and lifecycle management and ad-hoc queries
+- Support for the Algorithmic Strategies trading desk for interest rate and commodity trading activity. This included flash pnl generation, activity reports, structured deal reviews, trade-flow and lifecycle management
 
-- Proactively identified processes to be migrated to the Mumbai Middle Office and provided process documentation, support and training. I spent three weeks working in Mumbai in 2012 migrating the UCITS Funds daily activity and training the teams on general product knowledge and how to conduct structured deal reviews
+- Proactively identified processes to be migrated to the Mumbai Middle Office and provided process documentation, support and training. I spent three weeks working in Mumbai migrating the UCITS Funds daily activity and training the teams on general product knowledge and how to conduct structured deal reviews
 
 #### Structured Rates and Inflation Middle Office - Citigroup
 *Sep 2008 – Jul 2010*
 
-- End to end life of deal owner of Structured Interest Rate and Inflation trades ensuring captured correctly in risk management systems (Murex, CDS), confirmation review and approval, manual calculation and coupon booking where appropriate and further deal activity such as upsizes, restructures, partial and full unwinds
+- End to end life of trade owner for Structured Rates trades ensuring captured correctly in risk management systems, confirmation review, coupon calculation and booking where appropriate and further lifecycle activity such as upsizes, restructures and unwinds
 
-- Owner of the Best Fit process cataloguing trades either too complex to book in current systems or too illiquid to capture as executed. Process involves working closely with Risk, Product Control and trading to ensure all Best Fit trades are initially approved, logged as booked vs. executed and reason behind Best Fit, pnl held out is as expected and chairing and organising monthly meetings
+- Owner of the Best Fit process cataloguing trades either too complex to book in current systems or too illiquid to capture as executed
 
-- Long term project owner of transfer of Structured Rates settlement affirmation from Middle to Back Office including training of Back Office staff on Structured Rates, handover of all affirmations to Back Office and system improvements to ensure correct coupons auto-feed settlement systems first time
+- Long term project owner of transfer of Structured Rates settlement affirmation from Middle to Back Office
 
 #### Interest Rate Swaps Middle Office - J P Morgan
 *Mar 2007 – Sep 2008*
 
-- Manage the flow of Interest Rate Swaps and Forward Rate Agreements between the trading floor, risk management and Back Office systems ensuring traders risk and pnl is captured and in line with expectations
+- Managed the flow of Interest Rate Swaps and Forward Rate Agreements between the trading floor, risk management and Back Office systems ensuring traders risk and pnl is captured and in line with expectations
 
 - Weekly analysis of trade amend statistics reporting to senior management reasons behind Front and Middle office errors and any training requirements or process improvements to reduce errors and potential losses
 
-- Supervisor to a team of four ensuring resources are efficiently allocated within the team
+- Supervisor to a team of four ensuring resources were efficiently allocated within the team
 
 #### Product Manager, FX and Derivatives - Barclays
 *Aug 2005 – Mar 2007*
 
 - Driving and supporting sales of circa £200m p.a. profit Foreign Exchange and Derivatives product set for UK Corporate clients
 
-- Identifying and implementing new opportunities to increase profit, tracking and reporting results. Achievements included £3.5m p.a. incremental profit through management of pricing margins on small deals, £2.5m p.a. incremental profit through the creation of a skewed margin for small deals and decreased the number of and realigned pricing matrices providing an incremental profit of £600k p.a.
+- Identified and implemented new opportunities to increase profit, tracking and reporting results. This included a £3.5m p.a. incremental profit through management of price margins on small deals, £2.5m p.a. incremental profit through creation of skewed margin for small deals and £600k p.a incremental profit by decreasing number of and realigning price matrices
 
 - Analysis and interpretation of product performance MI for senior management and sales teams to highlight key sales and income trends and develop business strategy
 
-- Monitoring competitor and market activity and ensuring management and sales teams have up to date competitor profiles and market intelligence
+- Monitored competitor and market activity and ensured management and sales teams had up to date competitor profiles and market intelligence
 
 #### Service Support Manager - Barclays
 *Jan 2004 – Aug 2005*
@@ -120,7 +120,7 @@ Check out more of my code in my [Github Repositories].
 
 - Analysed monthly complaints data to identify trends and produced reports for senior management
 
-- Involvement in design requirements, roll out and training across Corporate Banking for new customer complaint management system
+- Involvement in design requirements, roll out and training across Corporate Banking for new client complaint management system
 
 #### Barclays Corporate Banking
 *Summer(Jun-Sep) 2000, 2001 and 2002 University internships*
