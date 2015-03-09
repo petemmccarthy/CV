@@ -1,4 +1,4 @@
-# Peter McCarthy
+# Pete McCarthy
 ---
 
 After graduating in Economics I spent 10 years in Banking before joining [Makers Academy], a highly selective, 12 week Software and Web development course. 
@@ -142,22 +142,22 @@ Education
 Interests and Hobbies
 ---
 
-Cycling, technology, climbing, skiing, outdoor pursuits and travel.
+Cycling, technology, climbing, outdoor pursuits and travel.
 
 
 
 Contact me
 ---
-You can email me at [petermccarthy49@yahoo.co.uk] or find me on [LinkedIn] and [Twitter].
+You can email me at [pete.m.mccarthy@gmail.com] or find me on [LinkedIn] and [Twitter].
 
 
 
 [Github Repositories]:https://github.com/petermccarthy49?tab=repositories
 [Makers Academy]:http://www.makersacademy.com
-[petermccarthy49@yahoo.co.uk]:mailto:petermccarthy49@yahoo.co.uk
+[pete.m.mccarthy@gmail.com]:mailto:pete.m.mccarthy@gmail.com
 [Personal Website]:http://www.petemccarthy.co.uk
 [LinkedIn]:http://uk.linkedin.com/pub/peter-mccarthy/93/b30/527/
-[Twitter]:https://twitter.com/1978pmm
+[Twitter]:https://twitter.com/PeteMMcCarthy
 [Bunch]:https://github.com/petermccarthy49/bunch
 [Sudoku solver]:https://github.com/petermccarthy49/sudoku
 [Thermostat]:https://github.com/petermccarthy49/thermostat
