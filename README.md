@@ -152,12 +152,12 @@ You can email me at [pete.m.mccarthy@gmail.com] or find me on [LinkedIn] and [Tw
 
 
 
-[Github Repositories]:https://github.com/petermccarthy49?tab=repositories
+[Github Repositories]:https://github.com/petemmccarthy?tab=repositories
 [Makers Academy]:http://www.makersacademy.com
 [pete.m.mccarthy@gmail.com]:mailto:pete.m.mccarthy@gmail.com
 [Personal Website]:http://www.petemccarthy.co.uk
 [LinkedIn]:http://uk.linkedin.com/pub/peter-m-mccarthy/93/b30/527/
 [Twitter]:https://twitter.com/PeteMMcCarthy
-[Bunch]:https://github.com/petermccarthy49/bunch
-[Sudoku solver]:https://github.com/petermccarthy49/sudoku
-[Thermostat]:https://github.com/petermccarthy49/thermostat
+[Bunch]:https://github.com/petemmccarthy/bunch
+[Sudoku solver]:https://github.com/petemmccarthy/sudoku
+[Thermostat]:https://github.com/petemmccarthy/thermostat
