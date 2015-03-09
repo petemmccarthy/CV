@@ -1,4 +1,4 @@
-# Pete McCarthy
+# Pete M McCarthy
 ---
 
 After graduating in Economics I spent 10 years in Banking before joining [Makers Academy], a highly selective, 12 week Software and Web development course. 
@@ -156,7 +156,7 @@ You can email me at [pete.m.mccarthy@gmail.com] or find me on [LinkedIn] and [Tw
 [Makers Academy]:http://www.makersacademy.com
 [pete.m.mccarthy@gmail.com]:mailto:pete.m.mccarthy@gmail.com
 [Personal Website]:http://www.petemccarthy.co.uk
-[LinkedIn]:http://uk.linkedin.com/pub/peter-mccarthy/93/b30/527/
+[LinkedIn]:http://uk.linkedin.com/pub/peter-m-mccarthy/93/b30/527/
 [Twitter]:https://twitter.com/PeteMMcCarthy
 [Bunch]:https://github.com/petermccarthy49/bunch
 [Sudoku solver]:https://github.com/petermccarthy49/sudoku
