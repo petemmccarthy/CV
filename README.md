@@ -31,7 +31,7 @@ Check out more of my code in my [Github Repositories].
   - Focus on Agile Methodologies, Test Driven development and clean code
   - Two-week final team project to bring it all together
 
-#### Skills learnt
+##### Where I used all these skills I'd learnt...
 
 - Agile principles and practices
 - Object-oriented design
@@ -139,23 +139,23 @@ Education
 - Mathematics & Economics Foundation Course, University of Leicester (Sep 1999 – Jun 2000)
 
 
-Interests and Hobbies
+When the laptop's closed...
 ---
 
-Cycling, technology, climbing, outdoor pursuits and travel.
+...it's likely I'll be cycling, either on or off road ...which leads onto another love of mine - Mountains. I've ice climbed in Patagonia, climbed a 20,000ft Himalayan peak and mountain biked up Snowden.
+Not surprisingly my favourite holiday is skiing!
 
 
-
-Contact me
+Get in touch!
 ---
-You can email me at [pete.m.mccarthy@gmail.com] or find me on [LinkedIn] and [Twitter].
+You can email me at [pete.m.mccarthy@gmail.com], or find me on [LinkedIn] and [Twitter].
 
 
 
 [Github Repositories]:https://github.com/petemmccarthy?tab=repositories
 [Makers Academy]:http://www.makersacademy.com
 [pete.m.mccarthy@gmail.com]:mailto:pete.m.mccarthy@gmail.com
-[Personal Website]:http://www.petemccarthy.co.uk
+[Personal Website]:http://www.petemmccarthy.com
 [LinkedIn]:http://uk.linkedin.com/pub/peter-m-mccarthy/93/b30/527/
 [Twitter]:https://twitter.com/PeteMMcCarthy
 [Bunch]:https://github.com/petemmccarthy/bunch
