@@ -34,8 +34,7 @@ Check out more of my code in my [Github Repositories].
 ##### Where I used all these skills I'd learnt...
 
 - Agile principles and practices
-- Object-oriented design
-- Responsive design
+- Object Oriented Design
 - Pair programming
 
 - Test Driven Development
@@ -50,9 +49,8 @@ Check out more of my code in my [Github Repositories].
  - Javascript, CSS3, HTML5, Markdown (GitHub flavour)
  - jQuery and AJAX
  - JSON and jBuilder
- - Basic java
 
-- Web Development frameworks 
+- Web frameworks 
  - Rails
  - Sinatra
 
@@ -61,14 +59,13 @@ Check out more of my code in my [Github Repositories].
  - ActiveRecord
  - DataMapper
 
-- Ruby Gems: Devise and bcrypt for user authentication and authorisation 
-
-- Integration of APIs 
- - including Twilio, Foursquare, Stripe, Pusher, GMaps, Mailgun and Paperclip
-
+- Many, many, many Ruby Gems!
+- Devise and bcrypt for user authentication and authorisation 
+- Integration of APIs including Twilio, Foursquare, Stripe, Pusher, GMaps, Mailgun and Paperclip
+- WebSockets
 - Deployment to Heroku and Amazon AWS
 - Version control and collaboration using Git and GitHub
-- WebSockets
+
 
 
 ## Previous Experience
