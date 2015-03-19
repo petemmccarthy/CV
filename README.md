@@ -12,9 +12,9 @@ I also learnt how Software and Web applications should be designed in collaborat
 Some recent code samples are below:-
 
 ---
-[Bunch] | [Thermostat] | [Sudoku solver]
+[Bunch] | [Thermostat] | [Boris Bikes]
 :-- |:--|:--
-Makers Academy final project: Ruby on Rails based web application for helping friends decide where to meet and suggest places to eat, drink or what to do. | Test-driven Javascript application simulating a basic thermostat functions. | Test-driven Ruby application that can solve a Sudoku puzzle (W.I.P).
+Makers Academy final project: Ruby on Rails based web application for helping friends decide where to meet and suggest places to eat, drink or what to do. | Test-driven Javascript application simulating a basic thermostat functions. | Test-driven Ruby application modelling London's Boris Bike network.
 
 
 Check out more of my code in my [Github Repositories].
@@ -31,7 +31,7 @@ Check out more of my code in my [Github Repositories].
   - Focus on Agile Methodologies, Test Driven development and clean code
   - Two-week final team project to bring it all together
 
-##### Where I used all these skills I'd learnt...
+##### where I learnt and used these skills and technologies...
 
 - Agile principles and practices
 - Object Oriented Design
@@ -59,12 +59,11 @@ Check out more of my code in my [Github Repositories].
  - ActiveRecord
  - DataMapper
 
-- Many, many, many Ruby Gems!
-- Devise and bcrypt for user authentication and authorisation 
+- Version control and collaboration using Git and GitHub
 - Integration of APIs including Twilio, Foursquare, Stripe, Pusher, GMaps, Mailgun and Paperclip
 - WebSockets
+- Devise and bcrypt for user authentication and authorisation 
 - Deployment to Heroku and Amazon AWS
-- Version control and collaboration using Git and GitHub
 
 
 
@@ -156,5 +155,5 @@ You can email me at [pete.m.mccarthy@gmail.com], or find me on [LinkedIn] and [T
 [LinkedIn]:http://uk.linkedin.com/pub/peter-m-mccarthy/93/b30/527/
 [Twitter]:https://twitter.com/PeteMMcCarthy
 [Bunch]:https://github.com/petemmccarthy/bunch
-[Sudoku solver]:https://github.com/petemmccarthy/sudoku
+[Boris Bikes]:https://github.com/petemmccarthy/Makers-Projects-Boris_bikes
 [Thermostat]:https://github.com/petemmccarthy/thermostat
