@@ -78,7 +78,7 @@ Check out more of my code in my [Github Repositories].
 
 ## Previous Career
 
-#### Funds and Structured Products Operations - Nomura
+##### Funds and Structured Products Operations - Nomura
 *Jul 2010 – Jun 2014*
 
 - Support for Nomura Alternative Investment Management in house Fund Managers for UCITS and Enovara funds. This involved coordinating new fund launches, seed capital management for internal trading desks, producing fund valuations and subscription/redemption/rebalance activity
@@ -89,7 +89,7 @@ Check out more of my code in my [Github Repositories].
 
 - Proactively identified processes to be migrated to the Mumbai Middle Office and provided process documentation, support and training. I spent three weeks working in Mumbai migrating the UCITS Funds daily activity and training the teams on general product knowledge and how to conduct structured deal reviews
 
-#### Structured Rates and Inflation Operations - Citigroup
+##### Structured Rates and Inflation Operations - Citigroup
 *Sep 2008 – Jul 2010*
 
 - End to end life of trade owner for Structured Rates trades ensuring captured correctly in risk management systems, confirmation review, coupon calculation and booking where appropriate and further lifecycle activity such as upsizes, restructures and unwinds
@@ -98,7 +98,7 @@ Check out more of my code in my [Github Repositories].
 
 - Long term project owner of transfer of Structured Rates settlement affirmation from Middle to Back Office
 
-#### Interest Rate Swaps Operations - J P Morgan
+##### Interest Rate Swaps Operations - J P Morgan
 *Mar 2007 – Sep 2008*
 
 - Managed the flow of Interest Rate Swaps and Forward Rate Agreements between the trading floor, risk management and Back Office systems ensuring traders risk and pnl is captured and in line with expectations
@@ -107,7 +107,7 @@ Check out more of my code in my [Github Repositories].
 
 - Supervisor to a team of four ensuring resources were efficiently allocated within the team
 
-#### Product Manager, FX and Derivatives - Barclays
+##### Product Manager, FX and Derivatives - Barclays
 *Aug 2005 – Mar 2007*
 
 - Driving and supporting sales of circa £200m p.a. profit Foreign Exchange and Derivatives product set for UK Corporate clients
@@ -118,7 +118,7 @@ Check out more of my code in my [Github Repositories].
 
 - Monitored competitor and market activity and ensured management and sales teams had up to date competitor profiles and market intelligence
 
-#### Service Support Manager - Barclays
+##### Service Support Manager - Barclays
 *Jan 2004 – Aug 2005*
 
 - Took ownership of clients’ service issues for Corporate Banking sales teams and worked with supplier managers, other business units and external suppliers to resolve, improve or eliminate service issues
