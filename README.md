@@ -67,18 +67,18 @@ Check out more of my code in my [Github Repositories].
 
 ## Other acheivements and qualities
 
-Commercially focussed - whilst FX Product Manager at Barclays, I identified and implemented new opportunities to increase annual profit by over £6m (from a large turnover), through the management of pricing options available to clients.
+**Commercially focussed** - whilst FX Product Manager at Barclays, I identified and implemented new opportunities to increase annual profit by over £6m (from a large turnover), through the management of pricing options available to clients.
 
-Environmentally aware - as it's something I'm passionate about, and also because I simply hate waste, I volunteered to be an Environment Rep at Nomura. This involved promoting good habits, educating people on what could/couldn't be recycled and manning stands during environmental awareness events.
+**Leadership** - as well as working in them, I also have experience of leading a small team at JP Morgan. I was responsible for allocating resources as efficienty as possible to fit a mostly unpredictable workload. This was highly incentivised as we couldn't leave 'til key tasks were completed!
 
-Leadership - as well as working in them, I also have experience of leading a small team at JP Morgan. I was responsible for allocating resources as efficienty as possible to fit a mostly unpredictable workload. This was highly incentivised as we couldn't leave 'til key tasks were completed!
+**Environmentally aware** - as it's something I'm passionate about, and also because I simply hate waste, I volunteered to be an Environment Rep at Nomura. This involved promoting good habits, educating people on what could/couldn't be recycled and manning stands during environmental awareness events.
 
-Nurture talent - I spent 3 weeks in India training a team to outsource processes currently done in London. This included new concepts I knew would take the them longer than 3 weeks to properly understand. Back in London I called them everyday to start with, arranged online workshops and even set weekly exercises to ensure they were progressing. Their success was my success here as I could then concentrate on adding value elsewhere.
+**Nurture talent** - I spent 3 weeks in India training a team to outsource processes currently done in London. This included new concepts I knew would take the them longer than 3 weeks to properly understand. Back in London I called them everyday to start with, arranged online workshops and even set weekly exercises to ensure they were progressing. Their success was my success here as I could then concentrate on adding value elsewhere.
 
 
 ## Previous Career
 
-#### Funds and Structured Products and Middle Office - Nomura
+#### Funds and Structured Products Operations - Nomura
 *Jul 2010 – Jun 2014*
 
 - Support for Nomura Alternative Investment Management in house Fund Managers for UCITS and Enovara funds. This involved coordinating new fund launches, seed capital management for internal trading desks, producing fund valuations and subscription/redemption/rebalance activity
@@ -89,7 +89,7 @@ Nurture talent - I spent 3 weeks in India training a team to outsource processes
 
 - Proactively identified processes to be migrated to the Mumbai Middle Office and provided process documentation, support and training. I spent three weeks working in Mumbai migrating the UCITS Funds daily activity and training the teams on general product knowledge and how to conduct structured deal reviews
 
-#### Structured Rates and Inflation Middle Office - Citigroup
+#### Structured Rates and Inflation Operations - Citigroup
 *Sep 2008 – Jul 2010*
 
 - End to end life of trade owner for Structured Rates trades ensuring captured correctly in risk management systems, confirmation review, coupon calculation and booking where appropriate and further lifecycle activity such as upsizes, restructures and unwinds
@@ -98,7 +98,7 @@ Nurture talent - I spent 3 weeks in India training a team to outsource processes
 
 - Long term project owner of transfer of Structured Rates settlement affirmation from Middle to Back Office
 
-#### Interest Rate Swaps Middle Office - J P Morgan
+#### Interest Rate Swaps Operations - J P Morgan
 *Mar 2007 – Sep 2008*
 
 - Managed the flow of Interest Rate Swaps and Forward Rate Agreements between the trading floor, risk management and Back Office systems ensuring traders risk and pnl is captured and in line with expectations
