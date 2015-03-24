@@ -65,9 +65,18 @@ Check out more of my code in my [Github Repositories].
 - Devise and bcrypt for user authentication and authorisation 
 - Deployment to Heroku and Amazon AWS
 
+## Other acheivements and qualities
+
+Commercially focussed - whilst FX Product Manager at Barclays, I identified and implemented new opportunities to increase annual profit by over £6m (from a large turnover), through the management of pricing options available to clients.
+
+Environmentally aware - as it's something I'm passionate about, and also because I simply hate waste, I volunteered to be an Environment Rep at Nomura. This involved promoting good habits, educating people on what could/couldn't be recycled and manning stands during environmental awareness events.
+
+Leadership - as well as working in them, I also have experience of leading a small team at JP Morgan. I was responsible for allocating resources as efficienty as possible to fit a mostly unpredictable workload. This was highly incentivised as we couldn't leave 'til key tasks were completed!
+
+Nurture talent - I spent 3 weeks in India training a team to outsource processes currently done in London. This included new concepts I knew would take the them longer than 3 weeks to properly understand. Back in London I called them everyday to start with, arranged online workshops and even set weekly exercises to ensure they were progressing. Their success was my success here as I could then concentrate on adding value elsewhere.
 
 
-## Previous Experience
+## Previous Career
 
 #### Funds and Structured Products and Middle Office - Nomura
 *Jul 2010 – Jun 2014*
@@ -103,9 +112,9 @@ Check out more of my code in my [Github Repositories].
 
 - Driving and supporting sales of circa £200m p.a. profit Foreign Exchange and Derivatives product set for UK Corporate clients
 
-- Identified and implemented new opportunities to increase profit, tracking and reporting results. This included a £3.5m p.a. incremental profit through management of price margins on small deals, £2.5m p.a. incremental profit through creation of skewed margin for small deals and £600k p.a incremental profit by decreasing number of and realigning price matrices
+- Identified and implemented new opportunities to increase annual profit by over £6m through the management of pricing options available to clients.
 
-- Analysis and interpretation of product performance MI for senior management and sales teams to highlight key sales and income trends and develop business strategy
+- Analysis and interpretation of performance MI to highlight key sales and income trends and develop business strategy
 
 - Monitored competitor and market activity and ensured management and sales teams had up to date competitor profiles and market intelligence
 
@@ -117,15 +126,6 @@ Check out more of my code in my [Github Repositories].
 - Analysed monthly complaints data to identify trends and produced reports for senior management
 
 - Involvement in design requirements, roll out and training across Corporate Banking for new client complaint management system
-
-#### Barclays Corporate Banking
-*Summer(Jun-Sep) 2000, 2001 and 2002 University internships*
-
-- Designed successful recruitment campaign for junior vacancies including organising and producing presentation materials and correspondence for applicants
-
-- Dealt with day-to-day client queries such as calculating available funds and reviewing clients breaching financing agreements
-
-- Produced the ‘Retail Weekly’ newsletter for internal and external distribution to clients
 
 Education
 ---
