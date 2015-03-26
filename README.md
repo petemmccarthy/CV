@@ -83,9 +83,9 @@ Check out more of my code in my [Github Repositories].
 
 - Support for Nomura Alternative Investment Management in house Fund Managers for UCITS and Enovara funds. This involved coordinating new fund launches, seed capital management for internal trading desks, producing fund valuations and subscription/redemption/rebalance activity
 
-- Built out the Middle Office support function for the Re-insurance trading desk separating it from Cross Asset trading. This included a full review and documentation of all deals and review and documentation of all operational risks through a Risk & Control Self-Assessment ensuring all risks were identified and mitigated where possible through controls and procedures
+- Built out the Middle Office support function for the Re-insurance trading desk separating it from Cross Asset trading. This included a review and documentation of all live deals and review and documentation of all operational risks through a Risk & Control Self-Assessment. Ensured all risks were identified and mitigated where possible through controls and procedures
 
-- Support for the Algorithmic Strategies trading desk for interest rate and commodity trading activity. This included flash pnl generation, activity reports, structured deal reviews, trade-flow and lifecycle management
+- Support for the Algorithmic Strategies trading desk for interest rate and commodity trading activity. Included flash pnl generation, trading activity reports, new deal reviews, trade-flow and lifecycle management
 
 - Proactively identified processes to be migrated to the Mumbai Middle Office and provided process documentation, support and training. I spent three weeks working in Mumbai migrating the UCITS Funds daily activity and training the teams on general product knowledge and how to conduct structured deal reviews
 
@@ -116,16 +116,14 @@ Check out more of my code in my [Github Repositories].
 
 - Analysis and interpretation of performance MI to highlight key sales and income trends and develop business strategy
 
-- Monitored competitor and market activity and ensured management and sales teams had up to date competitor profiles and market intelligence
+- Monitored competitor and market activity ensuring sales teams had up to date competitor profiles
 
 ##### Service Support Manager - Barclays
 *Jan 2004 – Aug 2005*
 
-- Took ownership of clients’ service issues for Corporate Banking sales teams and worked with supplier managers, other business units and external suppliers to resolve, improve or eliminate service issues
+- Took ownership of clients’ service issues for sales teams and worked with supplier managers, other business units and external suppliers to resolve, improve or eliminate service issues
 
-- Analysed monthly complaints data to identify trends and produced reports for senior management
-
-- Involvement in design requirements, roll out and training across Corporate Banking for new client complaint management system
+- Analysed monthly complaints data to identify problem areas to focus on
 
 Education
 ---
