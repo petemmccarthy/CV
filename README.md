@@ -38,21 +38,23 @@ Check out more of my code in my [Github Repositories].
 - Pair programming
 
 - Test Driven Development
- - Unit testing with RSpec and Jasmine
+ - Unit testing with RSpec, Jasmine and QUnit
  - Integration testing with Capybara and Poltergeist
  - Behaviour Driven Development with Cucumber
  - Testing aids such as FactoryGirl fixtures and Shoulda matchers
  - Validating code test coverage using Code-climate
  
-- Languages
+- Programming Languages
  - Primary language: Ruby
  - Javascript, CSS3, HTML5, Markdown (GitHub flavour)
  - jQuery and AJAX
  - JSON and jBuilder
 
 - Web frameworks 
+ - EmberJS
  - Rails
  - Sinatra
+
 
 - Database management
  - PostgreSQL
